@@ -19,5 +19,5 @@ def get_data():
 
 topics = get_data()
 for item in topics:
-	url,title, content = getpage(item)
+	url,title, content = getpage(item.strip())
 	print "Url :"+ url +"\nTitle : "+title+"\n"
