@@ -1,0 +1,97 @@
+Adobe Systems Incorporated is an American multinational computer software company. The company is headquartered in San Jose, California, United States. Adobe has historically focused upon the creation of multimedia and creativity software products, with a more-recent foray towards rich Internet application software development. It is best known for Photoshop, the Portable Document Format (PDF) and Adobe Creative Suite, as well as its successor Adobe Creative Cloud.
+Adobe was founded in February 1982 by John Warnock and Charles Geschke, who established the company after leaving Xerox PARC in order to develop and sell the PostScript page description language. In 1985, Apple Computer licensed PostScript for use in its LaserWriter printers, which helped spark the desktop publishing revolution.
+As of 2015, Adobe Systems has about 13,500 employees, about 40% of whom work in San Jose. Adobe also has major development operations in Newton, Massachusetts; New York City, New York; Orlando, Florida; Minneapolis, Minnesota; Lehi, Utah; Seattle, Washington; San Francisco and San Luis Obispo, California in the United States.
+
+
+== History ==
+The name of the company, Adobe, comes from Adobe Creek in Los Altos, California, which ran behind the houses of both of the company's founders. Adobe's corporate logo features a stylized "A" and was designed by Marva Warnock, wife of John Warnock, who is also a graphic designer.
+Adobe's first products after PostScript were digital fonts, which they released in a proprietary format called Type 1. Apple subsequently developed a competing standard, TrueType, which provided full scalability and precise control of the pixel pattern created by the font's outlines, and licensed it to Microsoft. Adobe responded by publishing the Type 1 specification and releasing Adobe Type Manager, software that allowed WYSIWYG scaling of Type 1 fonts on screen - like TrueType without the precise pixel-level control. But these moves were too late to stop the rise of TrueType. Although Type 1 remained the standard in the graphics/publishing market, TrueType became the standard for business and the average Windows user. In 1996, Adobe and Microsoft announced the OpenType font format, and in 2003 Adobe completed converting its Type 1 font library to OpenType.
+In the mid-1980s, Adobe entered the consumer software market with Adobe Illustrator, a vector-based drawing program for the Apple Macintosh. Illustrator, which grew from the firm's in-house font-development software, helped popularize PostScript-enabled laser printers. Unlike MacDraw, the then standard Macintosh vector drawing program, Illustrator described shapes with more flexible Bézier curves, providing unprecedented accuracy. Font rendering in Illustrator, however, was left to the Macintosh's QuickDraw libraries and would not be superseded by a PostScript-like approach until Adobe released Adobe Type Manager.
+Adobe Systems entered NASDAQ in 1986. Its revenue has grown from roughly $1 billion in 1999 to roughly $4 billion in 2012. Adobe's fiscal years run from December to November. For example, the 2007 fiscal year ended on November 30, 2007.
+In 1989, Adobe introduced what was to become its flagship product, a graphics editing program for the Macintosh called Photoshop. Stable and full-featured, Photoshop 1.0 was ably marketed by Adobe and soon dominated the market.
+In 1993, Adobe introduced PDF, the Portable Document Format, and its Adobe Acrobat and Reader software. PDF is now an International Standard: ISO 32000-1:2008. The technology is adopted worldwide as a common medium for electronic documents.
+In December 1991, Adobe released Adobe Premiere, which Adobe rebranded to Adobe Premiere Pro in 2003. In 1994, Adobe acquired Aldus and added Adobe PageMaker and Adobe After Effects to its product line later in the year; it also controls the TIFF file format. In 1995, Adobe added Adobe FrameMaker, the long-document DTP application, to its product line after Adobe acquired Frame Technology Corp. In 1996, Adobe Systems Inc added Ares Software Corp. In 1999, Adobe introduced Adobe InCopy as a direct competitor to QuarkCopyDesk.
+
+In 1992, Adobe acquired OCR Systems, Inc.; in 1994, the company acquired Aldus Corporation. On May 30, 1997, Adobe reincorporated in Delaware by merging with and into Adobe Systems (Delaware), which had incorporated on May 9, 1997. Adobe Systems Incorporated (Delaware), the surviving corporation, changed its name to Adobe Systems Incorporated concurrently with the merger.
+The company acquired GoLive Systems, Inc. and released Adobe GoLive in 1999 and began shipping Adobe InDesign as a direct competitor to QuarkXPress and as an eventual replacement for PageMaker. In May 2003, Adobe acquired Syntrillium Software, adding Adobe Audition to its product line. In December 2004, French company OKYZ S.A., makers of 3D collaboration software, was acquired. This acquisition added 3D technology and expertise to the Adobe Intelligent Document Platform.
+On December 12, 2005, Adobe acquired its main rival Macromedia in a stock swap valued at about $3.4 billion, adding Adobe ColdFusion, Adobe Contribute, Adobe Captivate, Adobe Acrobat Connect (formerly Macromedia Breeze), Adobe Director, Adobe Dreamweaver, Adobe Fireworks, Adobe Flash, FlashPaper, Adobe Flex, Macromedia FreeHand, Macromedia HomeSite, Macromedia JRun, Adobe Presenter, and Macromedia Authorware to Adobe's product line.
+On November 12, 2007, CEO, Bruce Chizen resigned. Effective December 1, he was replaced by Shantanu Narayen, Adobe's current president and Chief Operating Officer. Bruce Chizen served out his term on Adobe's Board of Directors, and then continued in a strategic advisory role until the end of Adobe's 2008 fiscal year.
+Adobe released Adobe Media Player in April 2008. On April 27, Adobe discontinued development and sales of its older HTML/web development software, GoLive in favor of Dreamweaver. Adobe offered a discount on Dreamweaver for GoLive users and supports those who still use GoLive with online tutorials and migration assistance. On June 1, Adobe launched Acrobat.com, a series of web applications geared for collaborative work. Creative Suite 4, which includes Design, Web, Production Premium and Master Collection came out in October 2008 in six configurations at prices from about USD $1,700 to $2,500 or by individual application. The Windows version of Photoshop includes 64-bit processing. On December 3, 2008, Adobe laid off 600 of its employees (8% of the worldwide staff) citing the weak economic environment.
+Adobe announced two acquisitions in 2009: on August 29, it purchased Business Catalyst, and on September 15, it bought Omniture. On November 10, the company laid off 680 employees. Adobe announced it was investigating a "coordinated attack" against corporate network systems in China, managed by the company.
+Adobe's 2010 was marked by continuing front-and-back arguments with Apple over the latter's non-support for Adobe Flash on its iPhone, iPad and other products. Apple CEO Steve Jobs claimed that Flash was not reliable or secure enough, while Adobe executives have argued that Apple wish to maintain control over the iOS platform. In April 2010, Steve Jobs published a post titled "Thoughts on Flash" where he outlined his thoughts on Adobe Flash and the rise of HTML 5. In July 2010, Adobe bought Day Software integrating their line of CQ Products: WCM, DAM, SOCO, and Mobile
+In January 2011, Adobe acquired DemDex, Inc with the intent of adding DemDex's audience-optimization software to its online marketing suite. At Photoshop World 2011, Adobe unveiled a new mobile photo service. Carousel is a new application for iPhone, iPad and Mac that uses Photoshop Lightroom technology for users to adjust and fine-tune images on all platforms. Carousel will also allow users to automatically sync, share and browse photos. The service was later renamed to "Adobe Revel". On November 9, 2011, Adobe announced that they would cease development of Flash for mobile devices following version 11.1. Instead they will be focusing on HTML 5 for mobile devices. On December 1, 2011, Adobe announced that it has entered into a definitive agreement to acquire privately held Efficient Frontier.
+In December 2012, Adobe opened a new 280,000 square foot corporate campus in Lehi, UT.
+ In 2013 Adobe Systems endured a major security breach. Vast portions of the source code for the company's software were stolen and posted online and over 150 million records of Adobe's customers have been made readily available for download. In 2012, about 40 million sets of payment card information were compromised by a hack of Adobe.
+A class-action lawsuit alleging that the company suppressed employee compensation was filed against Adobe, and three other Silicon Valley-based companies in a California federal district court in 2013. In May 2014 it was revealed the four companies, Adobe, Apple, Google, and Intel had reached agreement with the plaintiffs, 64,000 employees of the four companies, to pay a sum of $324.5 million to settle the suit.
+
+
+== Products ==
+
+Desktop software
+Adobe Photoshop, Adobe Lightroom, Adobe InDesign, Adobe Illustrator, Adobe Fireworks, Adobe Soundbooth, Adobe Acrobat and Adobe Audition
+Server software
+Adobe ColdFusion, Adobe Content Server and Adobe LiveCycle Enterprise Suite, Adobe BlazeDS
+Formats
+Portable Document Format (PDF), PDF's predecessor PostScript, ActionScript, Shockwave Flash (SWF), Flash Video (FLV), and Filmstrip (.flm)
+Web-hosted services
+Adobe Kuler, Photoshop Express, and Acrobat.com
+Web design programs
+Adobe Dreamweaver, Adobe Contribute, Adobe Muse, Adobe Flash Builder, Adobe Flash Catalyst, Adobe Flash, and Adobe Edge
+Video editing and visual effects
+Adobe Premiere Pro, Adobe After Effects, Adobe Prelude, and Adobe SpeedGrade
+eLearning software
+Adobe Captivate
+Organizational software
+Adobe After Effects
+Web content management Software
+Adobe Experience Manager (AEM 6.0)
+
+
+== Reception ==
+For years hackers have exploited vulnerabilities in Adobe programs, such as Adobe Reader, to gain unauthorized access to computers. Adobe's Flash Player has also been criticized for, among other things, suffering from performance, memory usage and security problems (see criticism of Flash Player). A report by security researchers from Kaspersky Lab criticized Adobe for producing the products having top 10 security vulnerabilities.
+Observers noted that Adobe was spying on its customers by including spyware in the Creative Suite 3 software and quietly sending user data to a firm named Omniture. When users became aware, Adobe explained what the suspicious software did and admitted that they: "could and should do a better job taking security concerns into account". When a security flaw was later discovered in Photoshop CS5, Adobe sparked outrage by saying it would leave the flaw unpatched, so anyone who wanted to use the software securely would have to pay for an upgrade. Following a fierce backlash Adobe decided to provide the software patch.
+Adobe has been criticized for pushing unwanted software - third-party browser toolbars and free virus scanners, usually as part of the Flash update process, and for pushing a third-party scareware program designed to scare users into paying for unneeded system repairs.
+
+
+=== Awards ===
+Since 1995, Fortune has ranked Adobe as an outstanding place to work. Adobe was rated the 5th-best U.S. company to work for in 2003, 6th in 2004, 31st in 2007, 40th in 2008, 11th in 2009, 42nd in 2010, 65th in 2011, 41st in 2012, and 83rd in 2013. In May 2008, Adobe Systems India was ranked 19th of great places to work in India. In June 2014, it was ranked 6th of great places to work in India. In October 2008, Adobe Systems Canada Inc. was named one of "Canada's Top 100 Employers" by Mediacorp Canada Inc., and was featured in Maclean's newsmagazine.
+Adobe ranked no. 5 on a list of Internet’s 9 Most Hated Companies, based on a 2013 survey on Reddit.com. Adobe's Reader and Flash were listed on The 10 most hated programs of all time on TechRadar.com.
+
+
+=== Pricing ===
+Adobe has been criticized for its pricing practices, with retail prices being as much as twice as high in non-US countries as in the US. As pointed out by many, it is significantly cheaper to pay for a return airfare ticket to the United States and purchase one particular collection of Adobe's software there than to buy it locally in Australia.
+After Adobe revealed the pricing for the Creative Suite 3 Master Collection, which was £1,000 higher for European customers, a petition to protest over "unfair pricing" was published and signed by 10,000 users. In June 2009, Adobe further increased its prices in the UK by 10% in spite of weakening of the pound against the dollar, and UK users are not allowed to buy from the US store.
+
+
+== Source code and customer data breach ==
+On October 3, 2013, the company initially revealed that 2.9 million customers' sensitive and personal data was stolen in security breach which included encrypted credit card information. Adobe later admitted that 38 million active users have been affected and the attackers obtained access to their IDs and encrypted passwords, as well as to many inactive Adobe accounts. The company did not make it clear if all the personal information was encrypted, such as email addresses and physical addresses, though data privacy laws in 44 states require this information to be encrypted.
+A 3.8 GB file stolen from Adobe and containing 152 million usernames, reversibly encrypted passwords and unencrypted password hints was posted on AnonNews.org. LastPass, a password security firm, said that Adobe failed to use best practices for securing the passwords and has not salted them. Another security firm, Sophos, showed that Adobe used a weak encryption method permitting the recovery of a lot of information with very little effort. According to an IT expert, Adobe has failed its customers and ‘should hang their heads in shame’.
+Many of the credit cards were tied to the Creative Cloud software-by-subscription service. Adobe offered its affected US customers a free membership in a credit monitoring service, but no similar arrangements have been made for non-US customers. When a data breach occurs in the US, penalties depend on the state where the victim resides, not where the company is based.
+After stealing the customers' data, cyber-thieves also accessed Adobe's source code repository, likely in mid-August 2013. Because hackers acquired copies of the source code of Adobe proprietary products, they could find and exploit any potential weaknesses in its security, computer experts warned. Security researcher Alex Holden, chief information security officer of Hold Security, characterized this Adobe breach, which affected Acrobat, ColdFusion and numerous other applications, as "one of the worst in US history". Adobe also announced that hackers stole parts of the source code of Photoshop, which according to commentators could allow programmers to copy its engineering techniques and would make it easier to pirate Adobe's expensive products.
+On a server of a Russian-speaking hacker group, the "disclosure of encryption algorithms, other security schemes, and software vulnerabilities can be used to bypass protections for individual and corporate data" and may have opened the gateway to new generation zero-day attacks. Hackers already used ColdFusion exploits to make off with usernames and encrypted passwords of PR Newswire's customers, which has been tied to the Adobe security breach. They also used a ColdFusion exploit to breach Washington state court and expose up to 160,000 Social Security numbers.
+
+
+== See also ==
+
+Adobe Engagement Platform
+Adobe MAX
+Adobe Solutions Network
+Digital rights management (DRM)
+List of acquisitions by Adobe Systems
+List of Adobe software
+US v. ElcomSoft Sklyarov
+
+
+== References ==
+
+
+== External links ==
+Official website
+"Adobe Logo History". 
+"Adobe timeline" (PDF). Archived from the original (PDF) on January 6, 2006. 
+The Real Lesson in the Adobe Announcement - Lenswork Daily: Podcast
+"Patents owned by Adobe Systems". US Patent & Trademark Office. Retrieved December 8, 2005. 
+San Jose Semaphore on Adobe's building
+"Adobe Systems Incorporated Company Profile". Yahoo!. 
+Adobe Systems Video and Audio on MarketWatch
+Tech's greatest arguments: Apple vs. Adobe Flash
